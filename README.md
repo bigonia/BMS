@@ -29,7 +29,7 @@ mvn spring-boot:run
 - 使用了vue-element-admin项目，因为本人对前端不了解，所以只能做到使用，也就是对着文档涂涂改改勉强写出来了；
 - 前端项目的部署以及启动：
 > 1) 进入项目中
-	 cd vue-element-admin-site
+	 cd vue-element-admin
 
 > 2) 安装依赖
 	 npm install 
